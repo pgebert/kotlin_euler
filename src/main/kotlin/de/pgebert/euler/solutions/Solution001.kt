@@ -1,8 +1,11 @@
 package de.pgebert.euler.solutions
 
-import de.pgebert.euler.NOT_IMPLEMENTED
-import de.pgebert.euler.Solution
-
-class Solution001() : Solution() {
-    override fun solve() = NOT_IMPLEMENTED
+class Solution001() {
+    companion object {
+        fun solve(limit: Int) = buildSet {
+            listOf(3, 5).forEach { number ->
+                (1..(limit - 1) / number).forEach { add(it * number) }
+            }
+        }.sum()
+    }
 }

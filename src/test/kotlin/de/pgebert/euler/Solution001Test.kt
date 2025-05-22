@@ -10,7 +10,7 @@ class Solution001Test {
 
     @Test
     fun `testing solution 001`() {
-        Solution001().solve() shouldBe 11
+        Solution001.solve(1000) shouldBe 233168
     }
 
 }
