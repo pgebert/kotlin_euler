@@ -9,7 +9,7 @@
 | ✔ 01    | Multiples of 3 or 5         | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/pgebert/euler/solutions/Solution001.kt) |
 | ✔ 02    | Even Fibonacci Numbers      | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/pgebert/euler/solutions/Solution002.kt) |
 | ✔ 03    | Largest Prime Factor        | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/pgebert/euler/solutions/Solution003.kt) |
-| ✖ 04    | Largest Palindrome Product  |                                                                                                                                              |
+| ✖ 04    | Largest Palindrome Product  | [![Code](https://img.shields.io/badge/Code-grey?style=for-the-badge&logo=Kotlin)](src/main/kotlin/de/pgebert/euler/solutions/Solution004.kt) |
 | ✖ 05    | Smallest Multiple           |                                                                                                                                              |
 | ✖ 06    | Sum Square Difference       |                                                                                                                                              |
 | ✖ 07    | 10 001st Prime              |                                                                                                                                              |
